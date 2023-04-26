@@ -1,5 +1,5 @@
 # Epicode0123_unit1_w1g1
-<h2>Create a HTML page, using the fundamentals tags and ipertexts</h2>
+<h2>Create a HTML page, using the fundamentals tags and hypertexts</h2>
 <h3>Goals:</h3>
 <ul>
 <li>Create a HTML page</li>
